@@ -6,7 +6,7 @@ public class DudeRunner : MonoBehaviour
 {
     GameObject crab;
     Vector3 dudePos;
-    public float speed;
+    float speed = 30;
     public float randomizer;
     Rigidbody rb;
 
